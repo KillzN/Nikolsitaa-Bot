@@ -45,7 +45,7 @@ ${tradutor.texto1[16]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/KillzM',
+        'mediaUrl': 'https://github.com/KillzN',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2,

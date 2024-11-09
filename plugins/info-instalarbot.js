@@ -11,7 +11,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   const document = doc[Math.floor(Math.random() * doc.length)];
   const text = `${tradutor.texto1}`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/KillzN`},
+    'document': {url: `https://github.com/Nikolsita`},
     'mimetype': `application/${document}`,
     'fileName': `「  𝙆𝙄𝙇𝙇𝙕𝙉 𝙎𝙏𝙊𝙍𝙀 」`,
     'fileLength': 99999999999999,
@@ -20,7 +20,7 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/KillzN',
+        'mediaUrl': 'https://github.com/Nikolsita',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2,

@@ -1,7 +1,7 @@
 {
     "___creditos": {
         "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://github.com/KillzN"
+        "___Criador": "https://github.com/Nikolsita"
     },
     "plugins": {
         "_antiarab": {
@@ -802,7 +802,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "*[❗] Ingresa un enlace de YouTube.*",
-            "texto2": "🤴🏻 Descarga por KillzN & Kill-Bot-MD 🤖"
+            "texto2": "🤴🏻 Descarga por Nikolsita & Kill-Bot-MD 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 𝙼𝙰𝚂 𝙴𝙻 𝙴𝙽𝙻𝙰𝙲𝙴 / 𝙻𝙸𝙽𝙺 𝙳𝙴 𝚄𝙽 𝚅𝙸𝙳𝙴𝙾 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴*",
@@ -858,8 +858,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "*[❗] Utiliza este comando directamente en el número principal del Bot.*",
             "texto2": "*[❗] Iniciando proceso de eliminación de todos los archivos de sesión, excepto el archivo creds.json...*",
-            "texto3": "*[❗] La carpeta KillzNSession no existe o está vacía.*",
-            "texto4": "*[❗] No se encontró ningún archivo para eliminar en la carpeta KillzNSession.*",
+            "texto3": "*[❗] La carpeta NikolsitaSession no existe o está vacía.*",
+            "texto4": "*[❗] No se encontró ningún archivo para eliminar en la carpeta NikolsitaSession.*",
             "texto5": [
                 "*[❗] Se eliminaron",
                 "archivos de sesión, excepto el archivo creds.json.*"
@@ -2426,8 +2426,8 @@
                 "Reflexion sobre la serie Merlina 2022 de netflix*\n*◉",
                 "Codigo en JS para un juego de cartas*"
             ],
-            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por KillzN, tu seras Kill - Bot.",
-            "texto3": "Actuaras como un Bot de WhatsApp el cual fue creado por KillzN, tu seras Kill - Bot.",
+            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por Nikolsita, tu seras Kill - Bot.",
+            "texto3": "Actuaras como un Bot de WhatsApp el cual fue creado por Nikolsita, tu seras Kill - Bot.",
             "texto4": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*"
         },
         "herramientas_chatgptvoz": {
@@ -2436,7 +2436,7 @@
                 " Reflexion sobre la serie Merlina 2022 de netflix*\n*◉",
                 "Codigo en JS para un juego de cartas*"
             ],
-            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por KillzN, tu seras Kill - Bot.",
+            "texto2": "Actuaras como un Bot de WhatsApp el cual fue creado por Nikolsita, tu seras Kill - Bot.",
             "texto3": "*[❗] 𝙴𝚁𝚁𝙾𝚁, 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*"
         },
         "herramientas_clima": {
@@ -2638,7 +2638,7 @@
         },
         "info_creador": {
             "texto1": [
-                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/56983073328*"
+                "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/50671453710*"
             ],
             "texto2": [
                 "「  𝙆𝙞𝙡𝙡𝙯𝙉 𝙎𝙩𝙤𝙧𝙚 」",
@@ -2654,19 +2654,19 @@
                 " ➤ *𝙲𝙻𝙰𝚅𝙴:*",
                 "*SIN INFORMACIÓN*",
                 "➤ *𝙱𝙰𝙽𝙲𝙾: CAJA PIURA* ",
-                "➤ *𝙱𝙴𝙽𝙴𝙵𝙸𝙲𝙸𝙰𝚁𝙸𝙾: KillzN* ",
+                "➤ *𝙱𝙴𝙽𝙴𝙵𝙸𝙲𝙸𝙰𝚁𝙸𝙾: Nikolsita* ",
                 "➤ *𝙲𝙾𝙽𝙲𝙴𝙿𝚃𝙾: APOYO*",
                 "➤ *𝙿𝙰𝚈𝙿𝙰𝙻:* https://www.paypal.me/ineffablexmvrco",
                 "👉🏻 *𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙰𝙼𝙴 𝚂𝙸 𝙽𝙴𝙲𝙴𝚂𝙸𝚃𝙰𝚂*",
                 "*𝙼𝙰𝚂 𝙳𝙰𝚃𝙾𝚂 𝚈 𝙿𝙰𝚁𝙰 𝙰𝙶𝚁𝙰𝙳𝙴𝙲𝙴𝚁𝚃𝙴*",
-                "wa.me/56983073328"
+                "wa.me/50671453710"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFO - ESTADO />*_",
-                "▢ *Prop.:* KillzN",
-                "▢ *WA:* +56983073328",
+                "▢ *Prop.:* Nikolsita",
+                "▢ *WA:* +50671453710",
                 "▢ *PayPal:* https://www.paypal.me/ineffablexmvrco",
                 "▢ *Ping:*",
                 "▢ *Uptime:*",
@@ -2690,7 +2690,7 @@
         },
         "info_groupsofc": {
             "texto1": [
-                "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝚃𝙴 𝙸𝙽𝚅𝙸𝚃𝙾 𝙰 𝚄𝙽𝙸𝚁𝚃𝙴 AL 𝙶𝚁𝚄𝙿𝙾 𝙾𝙵𝙸𝙲𝙸𝙰𝙻 DE VENTAS BY KILLZN :D*",
+                "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝚃𝙴 𝙸𝙽𝚅𝙸𝚃𝙾 𝙰 𝚄𝙽𝙸𝚁𝚃𝙴 AL 𝙶𝚁𝚄𝙿𝙾 𝙾𝙵𝙸𝙲𝙸𝙰𝙻 DE VENTAS BY Nikolsita :D*",
                 "*➤ 𝙶𝚛𝚞𝚙𝚘𝚜 𝚘𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜 𝚍𝚎𝚕 𝙱𝚘𝚝:*"
             ],
             "texto2": "「  𝙆𝙞𝙡𝙡𝙯𝙉 𝙎𝙩𝙤𝙧𝙚 」",
@@ -2885,14 +2885,14 @@
         },
         "menu_menu": {
             "texto1": [
-                "𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧",
+                "𝗡𝗜𝗞𝗢𝗟 𝗕𝗢𝗧",
                 "▢ *Hola,*",
                 "_*< TUS ESTADÍSTICAS />*_",
                 "▢ *Nivel:* ",
                 "▢ *Experiencia:* ",
                 "▢ *Rango:* ",
                 "▢ *Diamantes:* ",
-                "▢ *KillznCoins:* ",
+                "▢ *NikolsitaCoins:* ",
                 "▢ *Tokens:* ",
                 "▢ *Premium:* ",
                 " _*< LISTA DE MENUS />*_",
@@ -2939,7 +2939,7 @@
             "texto2": [
                 "*—◉ 𝙰𝚀𝚄𝙸 𝚃𝙸𝙴𝙽𝙴𝚂 𝙻𝙰 𝙻𝙸𝚂𝚃𝙰 𝙳𝙴 𝚂𝚄𝙱𝙱𝙾𝚃𝚂 (𝚂𝙴𝚁𝙱𝙾𝚃/𝙹𝙰𝙳𝙸𝙱𝙾𝚃) 𝙰𝙲𝚃𝙸𝚅𝙾𝚂 🤖️*",
                 "*◉ 𝙿𝚄𝙴𝙳𝙴𝚂 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙰𝚁𝙻𝙾𝚂 𝙿𝙰𝚁𝙰 𝙿𝙴𝙳𝙸𝚁 𝚀𝚄𝙴 𝚂𝙴 𝚄𝙽𝙰𝙽 𝙰 𝚃𝚄 𝙶𝚁𝚄𝙿𝙾, 𝚂𝙴 𝚁𝙴𝚂𝙿𝙴𝚃𝚄𝙾𝚂𝙾!!*",
-                "*[❗] KILLZN STORE BOT'S 𝚂𝙴 𝙳𝙴𝚂𝙻𝙸𝙽𝙳𝙰 𝙳𝙴 𝚃𝙾𝙳𝙰 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙰𝙱𝙸𝙻𝙸𝙳𝙰𝙳 𝙾 𝚂𝚄𝙲𝙴𝚂𝙾 𝙾𝙲𝚄𝚁𝚁𝙸𝙳𝙾 𝙲𝙾𝙽 𝚁𝙴𝚂𝙿𝙴𝙲𝚃𝙾 𝙰𝙻 𝙱𝙾𝚃 𝙾 𝚂𝚄𝙱𝙱𝙾𝚃𝚂*",
+                "*[❗] Nikolsita STORE BOT'S 𝚂𝙴 𝙳𝙴𝚂𝙻𝙸𝙽𝙳𝙰 𝙳𝙴 𝚃𝙾𝙳𝙰 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙰𝙱𝙸𝙻𝙸𝙳𝙰𝙳 𝙾 𝚂𝚄𝙲𝙴𝚂𝙾 𝙾𝙲𝚄𝚁𝚁𝙸𝙳𝙾 𝙲𝙾𝙽 𝚁𝙴𝚂𝙿𝙴𝙲𝚃𝙾 𝙰𝙻 𝙱𝙾𝚃 𝙾 𝚂𝚄𝙱𝙱𝙾𝚃𝚂*",
                 "*—◉ 𝚂𝚄𝙱𝙱𝙾𝚃𝚂 𝙲𝙾𝙽𝙴𝙲𝚃𝙰𝙳𝙾𝚂:*"
             ],
             "texto3": [
@@ -3370,7 +3370,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamantes* 💎",
                 "Tokens* 🪙",
-                "KillzNCoins* 👾",
+                "NikolsitaCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3379,7 +3379,7 @@
             "texto1": "『🚓︎』𝙇𝘼 𝙋𝙊𝙇𝙄𝘾𝙄𝘼 𝙀𝙎𝙏𝘼 𝙑𝙄𝙂𝙄𝙇𝘼𝙉𝘿𝙊 𝙀𝙉 𝙀𝙎𝙏𝙀 𝙈𝙊𝙈𝙀𝙉𝙏𝙊, 𝙑𝙐𝙀𝙇𝙑𝙀 𝙀𝙉 :",
             "texto2": [
                 "💎 𝐃𝐈𝐀𝐌𝐀𝐍𝐓𝐄",
-                "👾 KillzN𝐂𝐨𝐢𝐧𝐬"
+                "👾 Nikolsita𝐂𝐨𝐢𝐧𝐬"
             ],
             "texto3": [
                 "《💰》Le has robado a",
@@ -3493,7 +3493,7 @@
                 "*—◉ Continúa explorando y realizando misiones para alcanzar nuevas alturas en el Gremio de Aventureros. Sigue interactuando con el Bot!.*"
             ]
         },
-        "rpg_minar_killzncoins": {
+        "rpg_minar_Nikolsitacoins": {
             "texto1": [
                 "Que pro 😎 has minado",
                 "🌟✨ Genial!! Obtienes",
